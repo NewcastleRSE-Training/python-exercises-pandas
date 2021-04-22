@@ -64,7 +64,7 @@ element = 'helium'
 print(element[-1])
 ```
 
-1. How does Python interpret a negative index?
+How does Python interpret a negative index?
 
 <details>
 <summary>Solution
@@ -74,7 +74,7 @@ Python interprets a negative index as starting from the end (as opposed to start
 
 <br>
 <br>
-2. If `values` is a list, what does `del values[-1]` do?
+If `values` is a list, what does `del values[-1]` do?
 
 <details>
 <summary>Solution
@@ -85,7 +85,7 @@ Removes the last element
 <br>
 <br>
 
-3. How can you display all elements but the last one without changing values? (Hint: you will need to combine slicing and negative indexing.)
+How can you display all elements but the last one without changing values? (Hint: you will need to combine slicing and negative indexing.)
 
 
 <details>
